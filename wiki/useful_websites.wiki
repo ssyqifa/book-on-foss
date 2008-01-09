@@ -1,0 +1,9 @@
+#labels links
+The Cathedral and the Bazaar
+http://www.catb.org/~esr/writings/cathedral-bazaar/
+
+Perspectives on Free and Open Source Software
+http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11216&mode=toc
+
+Free Software Foundation:
+http://www.fsf.org
