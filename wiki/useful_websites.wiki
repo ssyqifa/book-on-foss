@@ -8,5 +8,8 @@ http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11216&mode=toc
 Free Software Foundation:
 http://www.fsf.org
 
+The Ubuntu Philosophy:
+http://www.ubuntu.com/ubuntu/philosophy
+
 洛基开放文化实验室:
 http://rl.rockiestech.com/
