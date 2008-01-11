@@ -14,5 +14,8 @@ http://www.gnu.org/philosophy/audio/audio.html
 The Ubuntu Philosophy:
 http://www.ubuntu.com/ubuntu/philosophy
 
+Open Life: The Philosophy of Open Source
+http://www.openlife.cc/onlinebook
+
 洛基开放文化实验室:
 http://rl.rockiestech.com/
