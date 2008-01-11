@@ -20,8 +20,14 @@ http://www.openlife.cc/onlinebook
 Wired Magazine：Opensource Everywhere
 www.wired.com/wired/archive/11.11/opensource.html 
 
+The Open Source Definition
+http://www.opensource.org/docs/definition.php
+
 Why do Hackers Do What They Do?
 http://freesoftware.mit.edu/papers/lakhaniwolf.pdf
+
+The Hackers' Ethics:
+http://project.cyberpunk.ru/idb/hacker_ethics.html
 
 Search for "opensource" in Worldchanging.com:
 http://tinyurl.com/23kqsk
