@@ -17,5 +17,12 @@ http://www.ubuntu.com/ubuntu/philosophy
 Open Life: The Philosophy of Open Source
 http://www.openlife.cc/onlinebook
 
+Wired Magazine：Opensource Everywhere
+www.wired.com/wired/archive/11.11/opensource.html 
+
+Why do Hackers Do What They Do?
+http://freesoftware.mit.edu/papers/lakhaniwolf.pdf
+
+
 洛基开放文化实验室:
 http://rl.rockiestech.com/
