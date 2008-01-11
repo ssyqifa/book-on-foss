@@ -8,6 +8,9 @@ http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11216&mode=toc
 Free Software Foundation:
 http://www.fsf.org
 
+Audio and Video Recordings about our Philosophy:
+http://www.gnu.org/philosophy/audio/audio.html
+
 The Ubuntu Philosophy:
 http://www.ubuntu.com/ubuntu/philosophy
 
