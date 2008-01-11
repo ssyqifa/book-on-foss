@@ -17,6 +17,9 @@ http://www.ubuntu.com/ubuntu/philosophy
 Open Life: The Philosophy of Open Source
 http://www.openlife.cc/onlinebook
 
+David A. Wheeler’s website with elaborations on FOSS:
+http://www.dwheeler.com/
+
 Wired Magazine：Opensource Everywhere
 www.wired.com/wired/archive/11.11/opensource.html 
 
