@@ -21,7 +21,7 @@ David A. Wheeler’s website with elaborations on FOSS:
 http://www.dwheeler.com/
 
 Wired Magazine：Opensource Everywhere
-www.wired.com/wired/archive/11.11/opensource.html 
+http://www.wired.com/wired/archive/11.11/opensource.html 
 
 The Open Source Definition
 http://www.opensource.org/docs/definition.php
