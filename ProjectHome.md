@@ -1,0 +1,1 @@
+FOSS is now all the rage in the West. Yet it is still a vague idea for most people in China. We hope to bridge the gap between developers and end users by writing this book and putting the FOSS idea in simple, easy-to-understand language.

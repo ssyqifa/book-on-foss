@@ -1,0 +1,48 @@
+说明：下面所写的仅仅是Tony个人的看法
+
+写作路线图
+
+## Part 1  背景介绍 ##
+
+文泉驿访谈（背景：文泉驿是一个在华语圈开源界享有较高的评价的一个项目，去年发布了英雄1.0版本，为中文开拓Linux的疆域做出了非凡的贡献，而这背后就是一班热心的志愿者，我们不妨听听他们的心声……）
+
+从戴尔预装ubuntu说开去（为什么有那么多人强烈要求DELL出售预装ubuntu的电脑？什么是ubuntu，"I am because we are"的哲学，ubuntu社区）
+
+FOSS是什么？（用比喻阐述）
+
+为什么我从来没有听闻过？（FOSS从软件开发到社区合作参与到wikipedia到opensourcre business, 开源教育、开源设计, etc）
+
+FOSS有哪些优点？
+
+我们今天推广FOSS对于下一代的意义
+
+
+## Part 2   参与FOSS社区 ##
+
+Firefox社区是怎么成长壮大的？（访谈，历史回放，火狐推广经典手段，etc）
+
+FOSS社区平时做些什么？（coding, bug fixing, documentation, marketing, and having fun! )
+
+国内有哪些FOSS社区？
+
+我该怎么参与FOSS社区？
+
+
+## Part 3  FOSS意义在软件之外 ##
+
+在教育、环保、建筑、农村建设等方面FOSS作为软件以及作为一种合作精神的实践
+
+维机百科的启示（为什么说开源合作是未来的发展趋势）
+
+
+## 附录 ##
+
+
+FOSS语录（RMS, Eric Raymond, Mark, etc)
+
+FOSS历史大事回顾
+
+
+## 参考文献 ##
+
+## useful websites ##

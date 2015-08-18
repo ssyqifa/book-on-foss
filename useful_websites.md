@@ -1,0 +1,47 @@
+The Cathedral and the Bazaar
+http://www.catb.org/~esr/writings/cathedral-bazaar/
+
+Perspectives on Free and Open Source Software
+http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11216&mode=toc
+
+Free Software Foundation:
+http://www.fsf.org
+
+Audio and Video Recordings about our Philosophy:
+http://www.gnu.org/philosophy/audio/audio.html
+
+The Ubuntu Philosophy:
+http://www.ubuntu.com/ubuntu/philosophy
+
+Open Life: The Philosophy of Open Source
+http://www.openlife.cc/onlinebook
+
+David A. Wheeler’s website with elaborations on FOSS:
+http://www.dwheeler.com/
+
+Wired Magazine：Opensource Everywhere
+http://www.wired.com/wired/archive/11.11/opensource.html
+
+The Open Source Definition
+http://www.opensource.org/docs/definition.php
+
+Why do Hackers Do What They Do?
+http://freesoftware.mit.edu/papers/lakhaniwolf.pdf
+
+The Hackers' Ethics:
+http://project.cyberpunk.ru/idb/hacker_ethics.html
+
+Search for "opensource" in Worldchanging.com:
+http://tinyurl.com/23kqsk
+
+On the commons:
+http://onthecommons.org
+
+洛基开放文化实验室:
+http://rl.rockiestech.com/
+
+Opensource documentary the codebreaker, from BBC
+http://www.youtube.com/watch?v=LQkDrb14f9I
+
+Revolution OS
+http://www.youtube.com/watch?v=T9WaI6lZBSU
